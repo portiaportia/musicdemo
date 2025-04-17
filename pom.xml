@@ -15,10 +15,22 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+        
     </repositories>
 
 
     <dependencies>
+
+
+        <dependency>
+            <groupId>com.assemblyai</groupId>
+            <artifactId>assemblyai-java</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+
+
+
+
         <dependency>
             <groupId>com.github.JensPiegsa</groupId>
             <artifactId>jfugue</artifactId>
